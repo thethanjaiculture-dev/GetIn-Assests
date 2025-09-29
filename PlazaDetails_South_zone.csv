@@ -34,7 +34,7 @@
 "94","59001","Thiruparaithurai Plaza","Tamil Nadu","Tiruchirappalli","Trichy-Karur","81","Trichy","Madurai"
 "95","59002","Manavasi Plaza","Tamil Nadu","Dindigul","Trichy-Karur","81","Trichy","Madurai"
 "96","60001","Krishnagiri Plaza","Tamil Nadu","Krishnagiri","Hosur Krishnagin","44 (NH-7)","Krishnagiri","Chennai"
-"101","63101","Karapadu","Andhra Pradesh","Srikakulam","Icchapuram-Puintola","","Berhampur","Bhubaneswar"
+"101","63101","Karapadu","Andhra Pradesh","Srikakulam","Icchapuram-Puintola","5","Berhampur","Bhubaneswar"
 "102","69001","Vempadu","Andhra Pradesh","Anakapalli","Ankapalli Tuni","16( old 5)","Rajahmundry","Vijayawada"
 "103","70001","Krishnavaram","Andhra Pradesh","Kakinada","Tuni Diwancheruvu","16 (old 5)","Rajahmundry","Vijayawada"
 "104","73001","Bollapalli Toll Plata","Andhra Pradesh","Bapatla","Chilakalurinet Nellore","5","Ongale","Vijayawada"
@@ -271,6 +271,7 @@
 "1144","","Burakayalakota","Andhra Pradesh","Annamayya","Mulakalacheruvu Madanapalli Section","42","Tirupati","Vijayawada"
 "1146","","Anjukuzhipatti","Tamil Nadu","Dindigul","Dindigul kottampatty","383","Dindigul","Madurai"
 "1148","","Kadarampalli","Andhra Pradesh","ANANTHAPURAMU","KALYANDURG-RAYADURG-MOLAKALMUR","544DD","Anantpur","Vijayawada"
+
 
 
 
