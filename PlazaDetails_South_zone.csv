@@ -2,9 +2,9 @@
 "27","15001","Pantangi","Telangana","Yadadri-Bhuvanagiri","Hyderabad-Vijayawada","65","Hyderabad","Hyderabad"
 "28","15002","Koralaphad","Telangana","Nalgonda","Hyderabad-Vijayawada","65","Hyderabad","Hyderabad"
 "29","15003","Chillakallu","Andhra Pradesh","Krishna","Hyderabad-Vijayawada","65","Hyderabad","Hyderabad"
-"30","16001","Vanagiri","Karnataka","Koppal","Hungund Hospet","","Hospet","Bangalore"
+"30","16001","Vanagiri","Karnataka","Koppal","Hungund Hospet","13","Hospet","Bangalore"
 "31","16002","Shahapur","Karnataka","Koppal","Hunqund Hospet","13","Hospet","Bangalore"
-"32","16003","Hitnal","Karnataka","Koppal","Hungund Hospet","","Hospet","Bangalore"
+"32","16003","Hitnal","Karnataka","Koppal","Hungund Hospet","13","Hospet","Bangalore"
 "33","17001","Karjeevanhally Toll Plaza","Karnataka","Sira","Tumkur-Chitradurga including Tumkur Bypass","4","Chitradurga","Bangalore"
 "34","17002","Guitalu Toll Plaza","Karnataka","Chitradurga","Tumkur-Chitradurga including Tumkur Bypass","4","Chitradurga","Bangalore"
 "35","18001","Vikkravandi Toll Plaza","Tamil Nadu","Viluppuram","Tindivanam-Ulundurpet","132 & 38/ 45","Viluppuram","Chennai"
@@ -270,4 +270,5 @@
 "1143","","Kothapalli","Andhra Pradesh","Prakasam","Kadapa/Nellore Border to CS Puram section of NH-1678","1678","Ongole","Vijayawada"
 "1144","","Burakayalakota","Andhra Pradesh","Annamayya","Mulakalacheruvu Madanapalli Section","42","Tirupati","Vijayawada"
 "1146","","Anjukuzhipatti","Tamil Nadu","Dindigul","Dindigul kottampatty","383","Dindigul","Madurai"
+
 "1148","","Kadarampalli","Andhra Pradesh","ANANTHAPURAMU","KALYANDURG-RAYADURG-MOLAKALMUR","544DD","Anantpur","Vijayawada"
