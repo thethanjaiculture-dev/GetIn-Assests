@@ -21,7 +21,7 @@
 "71","46001","Bijapur Toll Plaza","Karnataka","Vijayapura","Bijapur Hungund","13 (New NH-50)","Gulbarga","Bangalore"
 "72","46002","Nagarhalla Toll Plaza","Karnataka","Bagalkot","Hunqund Bijapur","13 (New NH-50)","Gulbarga","Bangalore"
 "74","48001","Sullurpet Plaza (NH-16), (old NH-5)","Andhra Pradesh","Tirupati","Tada Nellore","S","Nellore","Vijayawada"
-"75","48002","Budhanam Plaza (NH-16), (old NH-5)","Andhra Pradesh","Tirupati","Tada-Nellore","","Nellore","Vijayawada"
+"75","48002","Budhanam Plaza (NH-16), (old NH-5)","Andhra Pradesh","Tirupati","Tada-Nellore","5","Nellore","Vijayawada"
 "76","48003","Neliore Plaza (NH-16), (old NH-5)","Andhra Pradesh","Nellore","Tada Nellore","5","Nellore","Vijayawada"
 "77","48004","Keesara Plaza (NH-65), (old NH 9)","Andhra Pradesh","NTR","Nandigama Vijayawada","","Vijayawada","Vijayawada"
 "78","49001","Kaza Toll Plaza","Andhra Pradesh","Guntur","Vijayawada-Chilakaluripet","S","Amaravati (AP)","Vijayawada"
@@ -271,5 +271,6 @@
 "1144","","Burakayalakota","Andhra Pradesh","Annamayya","Mulakalacheruvu Madanapalli Section","42","Tirupati","Vijayawada"
 "1146","","Anjukuzhipatti","Tamil Nadu","Dindigul","Dindigul kottampatty","383","Dindigul","Madurai"
 "1148","","Kadarampalli","Andhra Pradesh","ANANTHAPURAMU","KALYANDURG-RAYADURG-MOLAKALMUR","544DD","Anantpur","Vijayawada"
+
 
 
